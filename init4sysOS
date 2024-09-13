@@ -1,0 +1,8 @@
+echo "System Init has started!"
+echo "Setting Enviroment Values..."
+setenv PS1 "\u@\h:\w\$ "
+setenv USER "root"
+setenv PWD "/"
+setenv HOME "/Users/root"
+echo "Starting Bourne Shell..."
+sh
