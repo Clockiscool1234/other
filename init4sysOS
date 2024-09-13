@@ -4,5 +4,6 @@ setenv PS1 "\u@\h:\w\$ "
 setenv USER "root"
 setenv PWD "/"
 setenv HOME "/Users/root"
-echo "Starting Bourne Shell..."
-sh
+echo "Starting WindowServer..."
+wisebl
+wise
